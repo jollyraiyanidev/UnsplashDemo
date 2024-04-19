@@ -1,8 +1,6 @@
 package com.app.demoexample.ui.network
 
-import com.app.demoexample.ui.data.GetImages
 import com.app.demoexample.ui.data.GetImagesItem
-import com.app.demoexample.ui.data.Post
 import retrofit2.http.GET
 import retrofit2.http.Query
 

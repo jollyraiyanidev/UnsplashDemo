@@ -1,8 +1,6 @@
 package com.app.demoexample.ui.retrofit
 
-import com.app.demoexample.ui.data.GetImages
 import com.app.demoexample.ui.data.GetImagesItem
-import com.app.demoexample.ui.data.Post
 import com.app.demoexample.ui.network.ApiService
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
